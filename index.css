@@ -1,0 +1,13 @@
+#button {
+    font-size: xx-large;
+}
+
+#content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+* {
+    margin: 1%;
+}
